@@ -29,6 +29,13 @@ gem 'spring',        group: :development
 # add simpleforms
 gem 'simple_form'
 
+# add user authentication using device
+gem 'devise'
+
+#add facebook authentication via omniauth
+gem 'omniauth-facebook'
+
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
